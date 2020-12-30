@@ -6,3 +6,5 @@ Thses labs consists of following python code/algorithms:
 3.Defth First Search (DFS algorithm)
 3.Greedy Bredth First Search (GBFS search) algorithm
 4.8Queens_Genetic_Algorithm
+5. MinMax Algorithm
+6. AlphaBeta Pruning
